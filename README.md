@@ -1,13 +1,9 @@
-# Harp Boilerplates
-A personal collection of boilerplates for Harp.
-
-## public-style
+# Harp Boilerplate, Public Style
+Harp boilerplate set up with the following:
 
 ```
 public-style/
   |- harp.json
-  |- README.md               <--- won’t be served
-  |- secrets.txt             <--- won’t be served
   +- public/                 <--- public directory
       |- _layout.jade
       |- 404.jade
